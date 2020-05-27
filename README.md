@@ -1149,3 +1149,197 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1,IN: VH1
 https://113.11.25.242/live/vh1/chunks.m3u8
+#EXTINF:-1,IN: STAR PLUS HD
+http://185.246.209.251:9090/starplus/index.m3u8?token=test
+#EXTINF:-1,USA: ZEE TV HD
+http://185.246.209.251:9090/zeetv/index.m3u8?token=test
+#EXTINF:-1,USA: RISHTEY
+http://185.246.209.251:9090/rishtey/index.m3u8?token=test
+#EXTINF:-1,USA: AAPKA COLORS 
+http://185.246.209.251:9090/colors/index.m3u8?token=test
+#EXTINF:-1,USA: AND TV HD
+http://185.246.209.251:9090/andtv/index.m3u8?token=test
+#EXTINF:-1,USA: SONY TV HD
+http://185.246.209.251:9090/sony/index.m3u8?token=test
+#EXTINF:-1,USA: SONY SAB 
+http://185.246.209.251:9090/sabtv/index.m3u8?token=test
+#EXTINF:-1,IN: SONY PAL
+http://185.246.209.251:9090/sonypal/index.m3u8?token=test
+#EXTINF:-1,IN: DD 1 HD
+http://185.246.209.251:9090/ddnational/index.m3u8?token=test
+#EXTINF:-1,IN: SONY PIX HD
+http://185.246.209.251:9090/sonypix/index.m3u8?token=test
+#EXTINF:-1,IN: TV 100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1,IN: SS TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1,ME: MBC MX HD
+http://gtv2.tn:8000/live/Aminteleledunet/U5z4irJ7tZowNMLI/18.ts
+#EXTINF:-1,UK: CBS REALITY
+http://145.239.255.4:8080/CBSReality/mono.m3u8?token=test
+#EXTINF:-1,IN: CHANNEL WIN
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1,IN: MAHA MOVIES
+http://103.144.200.7:8080/hls/ttv/index.m3u8
+#EXTINF:-1,IN: BIG MAGIC
+http://103.144.200.7:8080/hls/bigmagic/index.m3u8
+#EXTINF:-1,IN: B4U MUSIC
+http://103.144.200.7:8080/hls/b4umusic/index.m3u8
+#EXTINF:-1,IN: ZING
+http://103.144.200.7:8080/hls/zing/index.m3u8
+#EXTINF:-1,IN: ZEE BANGLA
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/01.m3u8
+#EXTINF:-1,Animal-show
+http://newhostshare.ddns.net:9981/stream/channelid/1435881483
+#EXTINF:-1,BBC WORLD NEWS
+http://newhostshare.ddns.net:9981/stream/channelid/1086259739
+#EXTINF:-1,BBC World News
+http://newhostshare.ddns.net:9981/stream/channelid/456109412
+#EXTINF:-1,BOOMERANG
+http://newhostshare.ddns.net:9981/stream/channelid/1405453260
+#EXTINF:-1,CARTOON CLUB
+http://newhostshare.ddns.net:9981/stream/channelid/963879215
+#EXTINF:-1,CINEMAX net
+http://newhostshare.ddns.net:9981/stream/channelid/1640168379
+#EXTINF:-1,CN HD (CARTOON NETWORK)
+http://newhostshare.ddns.net:9981/stream/channelid/1759983589
+#EXTINF:-1,CNN
+http://newhostshare.ddns.net:9981/stream/channelid/23616012
+#EXTINF:-1,DISNEY Junior (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/1200828747
+#EXTINF:-1,DISNEY XD (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/1288978163
+#EXTINF:-1,Discovery (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/101854856
+#EXTINF:-1,DiscoveryAsia TH
+http://newhostshare.ddns.net:9981/stream/channelid/526760661
+#EXTINF:-1,FOX Action IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/476492717
+#EXTINF:-1,FOX FX IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/2117614331
+#EXTINF:-1,FOX Family IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/1749770164
+#EXTINF:-1,Fox Thai HD IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/846717042
+#EXTINF:-1,Foxcrime
+http://newhostshare.ddns.net:9981/stream/channelid/688595192
+#EXTINF:-1,HBO net
+http://newhostshare.ddns.net:9981/stream/channelid/241946330
+#EXTINF:-1,HISTORY H2 (true visions)
+http://newhostshare.ddns.net:9981/stream/channelid/1262548140
+#EXTINF:-1,History True
+http://newhostshare.ddns.net:9981/stream/channelid/1562496594
+#EXTINF:-1,My SCI HD IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/1503514418
+#EXTINF:-1,NAT GEO WILD
+http://newhostshare.ddns.net:9981/stream/channelid/2007232795
+#EXTINF:-1,NAT GEO people
+http://newhostshare.ddns.net:9981/stream/channelid/384227114
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://newhostshare.ddns.net:9981/stream/channelid/1587641415
+#EXTINF:-1,Natgeowild TH
+http://newhostshare.ddns.net:9981/stream/channelid/887478703
+#EXTINF:-1,Thrill IPTV
+http://newhostshare.ddns.net:9981/stream/channelid/78854366
+#EXTINF:-1,FOX MOVIES (Suitles: MY)
+http://newhostshare.ddns.net:9981/stream/channelid/1463788895
+#EXTINF:-1,GOLF CHANNEL HD
+http://newhostshare.ddns.net:9981/stream/channelid/198521929
+#EXTINF:-1,NBA HD
+http://newhostshare.ddns.net:9981/stream/channelid/1493048228
+#EXTINF:-1, SPORT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1026601074
+#EXTINF:-1, SPORTS 1
+http://newhostshare.ddns.net:9981/stream/channelid/769357711
+#EXTINF:-1,FR : CINE FRISSON HEVC
+http://newhostshare.ddns.net:9981/stream/channelid/2052400145
+#EXTINF:-1,NATIONAL GEO +1
+http://newhostshare.ddns.net:9981/stream/channelid/164948620
+#EXTINF:-1,CSAT Live 1
+http://newhostshare.ddns.net:9981/stream/channelid/1837973732
+#EXTINF:-1,HBO
+http://newhostshare.ddns.net:9981/stream/channelid/824047869
+#EXTINF:-1,star_movies
+http://newhostshare.ddns.net:9981/stream/channelid/1131802406
+#EXTINF:-1,Foxlife
+http://newhostshare.ddns.net:9981/stream/channelid/423417248
+#EXTINF:-1,AFN
+http://newhostshare.ddns.net:9981/stream/channelid/828651963
+#EXTINF:-1,DISCOVERY ASIA HD
+http://newhostshare.ddns.net:9981/stream/channelid/280543856
+#EXTINF:-1,DISCOVERY CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1164847519
+#EXTINF:-1,EDGE SPORT
+http://newhostshare.ddns.net:9981/stream/channelid/125584400
+#EXTINF:-1,SPORT
+http://newhostshare.ddns.net:9981/stream/channelid/1768113749
+#EXTINF:-1,FIGHT SPORTS HD
+http://newhostshare.ddns.net:9981/stream/channelid/1953587413
+#EXTINF:-1,FOX HD
+http://newhostshare.ddns.net:9981/stream/channelid/113109120
+#EXTINF:-1,FOXLIFE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1435847586
+#EXTINF:-1,GOLF
+http://newhostshare.ddns.net:9981/stream/channelid/791244624
+#EXTINF:-1,MTV LIVE HD
+http://newhostshare.ddns.net:9981/stream/channelid/265321329
+#EXTINF:-1,NAT GEO WILD HD
+http://newhostshare.ddns.net:9981/stream/channelid/683855471
+#EXTINF:-1,ME: TINY POP
+http://vod.simpletv.eu:8080/en-TinyPop/mono.m3u8?token=test
+#EXTINF:-1,ASIA: ABC NEWS
+https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1,ME: ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1,INT: SEX
+http://194.15.225.70:8000/play/a03n/index.m3u8
+#EXTINF:-1,IN: STAR BHARAT HD
+http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8 
+#EXTINF:-1,USA: movie kingdom 
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/low/c.m3u8
+#EXTINF:-1,UK: ID HD
+http://81.171.21.159:4780/discinvestigat-dqwugfowhf/index.m3u8
+#EXTINF:-1,USA: SONY SAB
+http://185.246.209.251:6061/sabtv/index.m3u8?token=test
+#EXTINF:-1,USA: SONY PAL
+http://185.246.209.251:6061/sonypal/index.m3u8?token=test
+#EXTINF:-1,CH: ANIMAL PLANET
+http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJsKR
+#EXTINF:-1,UK: BBC NEWS
+http://145.239.255.4:8080/HDBBC1/mono.m3u8?token=test
+#EXTINF:-1,IN: &TV HD
+http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
+#EXTINF:-1,Uk: The Kingdom Sat
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1,UK: JUST 89
+http://188.35.9.12:21121/udp/129i
+#EXTINF:-1,UK: JUST 89
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1,UK: VIVID RED
+http://188.35.9.12:21131/udp/142d
+#EXTINF:-1,USA: JOY NEWS
+http://165.22.122.126:25461/live/zero/app/9.m3u8
+#EXTINF:-1,UK: SUPER ONE
+http://91.92.108.254:8080/udp/239.100.10.224:5000
+#EXTINF:-1,UK: VH1
+http://91.92.108.254:8080/udp/239.100.10.105:5000
+#EXTINF:-1,UK: BRAZEERS TV
+http://91.92.108.254:8080/udp/239.100.10.190:5000
+#EXTINF:-1,UK: DORCEL TV
+http://91.92.108.254:8080/udp/239.10.10.155:5000
+#EXTINF:-1,UK: BOOMERANG
+http://145.239.255.4:8080/BOO/mono.m3u8?token=test
+#EXTINF:-1,INT: STAR GOLD
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,UK: SONY MOVIES
+http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
+#EXTINF:-1,UK: NICK
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
+#EXTINF:-1,US: BBC AMERICA
+http://live.highstream.club/live/AE/playlist.m3u8
+#EXTINF:-1,ASIA: WB TV
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
+#EXTINF:-1,UK: DISCOVERY
+http://178.132.3.162:88/Discovery/video.m3u8?token=test
